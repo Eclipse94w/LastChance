@@ -1,4 +1,4 @@
-# PartielReact
+# LastChance (nom initial PartielReact)
 
 Création d'un jeu du pendu.
 
@@ -6,13 +6,17 @@ Création d'un jeu du pendu.
 
 ### Etape 1 :
 
-Faire un git clone https://github.com/Eclipse94w/PartielReact
+Faire un git clone https://github.com/Eclipse94w/LastChance/
 
 ### Etape 2 :
 
-Faire un `npm install`
+Faire un cd LastChance
 
 ### Etape 3 :
+
+Faire un `npm install`
+
+### Etape 4 :
 
 Faire un `npm start`
 
